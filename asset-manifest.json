@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/varoun-portfolio/static/css/main.d9f26191.css",
+    "main.js": "/varoun-portfolio/static/js/main.f4890a62.js",
+    "static/js/787.3a4070a7.chunk.js": "/varoun-portfolio/static/js/787.3a4070a7.chunk.js",
+    "index.html": "/varoun-portfolio/index.html",
+    "main.d9f26191.css.map": "/varoun-portfolio/static/css/main.d9f26191.css.map",
+    "main.f4890a62.js.map": "/varoun-portfolio/static/js/main.f4890a62.js.map",
+    "787.3a4070a7.chunk.js.map": "/varoun-portfolio/static/js/787.3a4070a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9f26191.css",
+    "static/js/main.f4890a62.js"
+  ]
+}
